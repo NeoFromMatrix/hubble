@@ -1,2 +1,6 @@
 cache/3d_models/*/*/local
 *.imp_meta
+*.autosave
+*.bak
+pool/*.db
+pool/*.db-*
