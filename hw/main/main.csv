@@ -1,0 +1,37 @@
+QTY,MPN,Manufacturer,Ref. Des.,Value,Description,Datasheet,Package
+12,CPL-CAP-X7R-0603-100NF-50V,CPL,"C1, C7, C8, C9, C10, C11, C12, C13, C25, C26, C27, C28",100 nF,"","",C0603
+8,CPL-CAP-X7R-0603-1UF-25V,CPL,"C2, C3, C4, C16, C17, C20, C23, C24",1 µF,"","",C0603
+3,CL21B475KAFNNN,Samsung,"C5, C6, C22",4.7 µF,Ceramic Capacitor 4.7 µF 25 V X7R,http://www.samsungsem.com/kr/support/product-search/mlcc/CL21B475KAFNNNG.jsp,C0805
+5,CPL-CAP-X5R-0805-10UF-16V,CPL,"C14, C15, C18, C19, C21",10 µF,"","",C0805
+2,CC0603K_X7R9BB223,Yageo,"C29, C30",22 nF,Ceramic Capacitor 22 nF 50 V X7R,http://www.yageo.com/portal/product/productDocs.jsp?YageoPartNumber=CC0603KPX7R9BB223,C0603
+1,TPD2E001DRLR,Texas Instruments,D1,TPD2E001DRLR,Low-Capacitance 2-Channel ESD-Protection for High-Speed Data Interfaces,http://www.ti.com/lit/ds/symlink/tpd2e001.pdf,DRL
+2,BLM18AG601SN1D,Murata,"FB1, FB2",BLM18AG601SN1D,"Ferrite bead, 600 Ohm @ 100 MHz, 500 mA",https://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf,C0603
+1,FH33-6S-0.5SH(10),Hirose,J1,FH33-6S-0.5SH(10),6 Pin FFC Connector,https://www.hirose.com/product/download/type=2d&lang=en&num=FH33-6S-0.5SH(10),FH33-6S-0.5SH(10)
+1,FH19SC-30S-0.5SH(09),Hirose,J2,FH19SC-30S-0.5SH(09),30 Pin FFC connector,https://www.hirose.com/product/en/download_file/key_name/FH19SC%2D30S%2D0.5SH%2809%29/category/Drawing%20(2D)/doc_file_id/43074/?file_category_id=6&item_id=05800500209&is_series=,FH19SC-30S-0.5SH(09)
+1,UE75A203000T,Amphenol FCI,J3,UE75A203000T,SFP connector,https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/ue75a20x00xx.pdf,UX75-A20-X00XX
+1,USB4110-GF-A,GCT,J4,USB4110-GF-A,USB Type-C Receptacle for USB 2.0,https://gct.co/files/drawings/usb4110.pdf,USB4110-GF-A
+1,U77A1114100T,Amphenol FCI,J5,U77A1114100T,SFP cage,https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/u77a111xxx0x.pdf,U77A111xxx0x
+3,57,Keystone,"J6, J7, J8",57,AA battery holder,https://www.keyelco.com/product-pdf.cfm?p=814,57
+1,SMM-102-02-F-S,Samtec,J9,SMM-102-02-F-S,2 Pin 2.00mm socket strip,http://suddendocs.samtec.com/prints/smm-1xx-xx-xx-s-xx-x-xx-xx-mkt.pdf,SMM-102-02-F-S
+3,CBC3225T4R7MR,Taiyo Yuden,"L1, L2, L3",4.7 µH,Wire-wound Chip Power Inductor,http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=CBC3225T4R7MR&fileName=CBC3225T4R7MR_SS&mode=specSheetDownload,L1210
+1,DMG1013T-7,Diodes Inc.,Q1,DMG1013T-7,"P-Channel MOSFET, 20V, 460mA",https://www.diodes.com/assets/Datasheets/ds31784.pdf,SOT-523
+4,CPL-RES-0603-22-0.1W,CPL,"R1, R2, R25, R27",22 Ω,"","",R0603
+2,ERJ-3EKF5101,Panasonic,"R3, R4",5.1 kΩ,Chip Resistor 5.1 kΩ 1% 0.1W,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf,R0603
+1,ERJ-3EKF3903,Panasonic,R5,390 kΩ,Chip Resistor 390 kΩ 1% 0.1W,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf,R0603
+8,CPL-RES-0603-10K-0.1W,CPL,"R6, R7, R8, R13, R16, R19, R22, R24",10 kΩ,"","",R0603
+1,ERJ-3EKF4700,Panasonic,R9,470 Ω,Chip Resistor 470 Ω 1% 0.1W,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf,R0603
+4,ERJ-3GEY0R00,Panasonic,"R10, R12, R18, R21",0 Ω,Chip Resistor 0 Ω 1% 0.1W,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf,R0603
+1,ERJ-3EKF2701,Panasonic,R11,2.7 kΩ,Chip Resistor 2.7 kΩ 1% 0.1W,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf,R0603
+1,RU1608FR100CS,Samsung,R14,100 mΩ,SMD Resistor Current Sensing 100 mΩ 1% 0.25W,http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/17/RU_Spec_Sheet(1901).pdf,R0603
+1,CPL-RES-0603-2K-0.1W,CPL,R15,2 kΩ,"","",R0603
+1,RC0603FR-07750RL,Yageo,R17,750 Ω,SMD Resistor General Purpose 750 Ω 1% 0.1W ,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,R0603
+4,PTS525SM15SMTR2 LFS,C&K,"S1, S2, S3, S4",PTS525SM15SMTR2 LFS,Microminiature Tact Switch for SMT,https://www.ckswitches.com/media/1467/pts525.pdf,PTS525S[MK]
+1,STM32L412CxUx,ST,U1,STM32L412CxUx,Cortex-M4 MCU,https://www.st.com/resource/en/datasheet/stm32l412cb.pdf,UFQFPN48
+1,AP9211,Diodes Inc.,U2,AP9211,Single chip Li-Ion protection IC,https://www.diodes.com/assets/Datasheets/AP9211.pdf,U-DFN2030-6-C
+1,PAM2804AAB010,Diodes Inc.,U3,PAM2804AAB010,"1A step-down constant current, high efficiency LED driver",https://www.diodes.com/assets/Datasheets/PAM2804.pdf,SOT-23-5
+1,BQ24040DSQT,Texas Instruments,U4,BQ24040DSQ,"1A, Single-Input, Single Cell Li-Ion and Li-Pol Battery Charger With Auto Start",http://www.ti.com/lit/ds/symlink/bq24040.pdf,DSQ
+1,TPS62291,Texas Instruments,U5,TPS62291,"3.3V fixed, 1-A Step Down Converter",http://www.ti.com/lit/gpn/tps62290,DRV6
+2,AP2280-1WG-7,Diodes Inc.,"U6, U8",AP2280-1WG-7,Single Channel Slew Rate Controlled Load Switch,https://www.diodes.com/assets/Datasheets/AP2280.pdf,SOT-23-5
+1,TLV61046A,Texas Instruments,U7,TLV61046A,28-V Output Voltage Boost Converter with Power Diode and Isolation Switch,http://www.ti.com/lit/gpn/tlv61046a,DBV6
+1,SG-310SCF 25.0000MB3,EPSON,U9,SG-310SCF 25.0000MB3,Crystal Oscillator 25MHz CMOS Output,https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-310SCF&lang=en,SG-310
+1,DS125DF111,Texas Instruments,U10,DS125DF111,"Low-Power, Multirate, 2-Channel Retimer, 9.8 to 12.5 GB/s",http://www.ti.com/lit/gpn/ds125df111,RTW
